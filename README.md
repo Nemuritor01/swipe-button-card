@@ -1,6 +1,6 @@
 # Swipe-Button-Card
 
-![readme-images-swipe-button-card](https://github.com/Nemuritor01/swipe-button-card/blob/main/.github/swipe-button-card.png)
+![readme-images-swipe-button-card](https://github.com/Nemuritor01/swipe-button-card/blob/main/.github/swipe-button-card.gif)
 
 Swipe-Button-Card is a minimalist and customizable card, that lets you toggle 3 buttons with swipe gestures.
 It acts like a container for 3 card (which can be any Home Assistant card), while swiping to the left, right (or top bottom)
