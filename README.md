@@ -3,8 +3,8 @@
 ![readme-images-swipe-button-card](https://github.com/Nemuritor01/swipe-button-card/blob/main/.github/swipe-button-card.gif)
 
 Swipe-Button-Card is a minimalist and customizable card, that lets you toggle 3 buttons with swipe gestures.
-It acts like a container for 3 card (which can be any Home Assistant card), while swiping to the left, right (or top bottom)
-triggers a click on the specific sub-button.
+swipe-button-card is a container for 3 card, which can be any Home Assistant card. Swiping to the left - right (or top - bottom)
+triggers a click on the specified sub-card.
 This card is written in CSS and Java Script and not using any third party library.
 
 Please note, that I´ve created this card for my personal use in the first place.
@@ -36,7 +36,7 @@ The code might not follow best practise methods. Contributors are welcome.
 5. Select `ADD`.
 6. Confirm the repository now appears in your HACS custom repositories list. Select `CANCEL` to close the custom repository window.
 7. In the HACS search, type `Swipe-Button-Card`.
-8. Select the `CSS-Swipe-Card` Respository from the list.
+8. Select the `Swipe-Button-Card` Respository from the list.
 9. Install the Repository.
 10. Make sure to add to resources via one of the following:
     - If using the GUI Resource option, this should have been added automatically.
