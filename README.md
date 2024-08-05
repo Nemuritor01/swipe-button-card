@@ -86,7 +86,7 @@ Add a card with type `custom:swipe-button-card`:
 
 | Name | Type | Default | Supported options | Description |
 | ---- | ---- | ------- | ----------------- | ----------- |
-| `template` | string | swipe-button-horizontal | swipe-button-horizontal, sswipe-button-vertical |
+| `template` | string | swipe-button-horizontal | swipe-button-horizontal, sswipe-button-vertical | vertical or horizontal swipe-button |
 | `layout` | number | 3 | 1 , 2 , 3 | defines the amount of cards |
 | `width` | string | 100% | Any css option that fits in the `width` css value | Will force the width of the swiper container |
 | `height` | string | 100% | Any css option that fits in the `height` css value | Will force the height of the swiper container |
