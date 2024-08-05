@@ -1,0 +1,7 @@
+{
+  "name": "Swipe-Button-Card",
+  "content_in_root": false,
+  "render_readme": true,
+  "filename": "swipe-button-card.js",
+  "homeassistant": "2023.9.0"
+}
