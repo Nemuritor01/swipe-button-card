@@ -88,8 +88,8 @@ Add a card with type `custom:swipe-button-card`:
 | ---- | ---- | ------- | ----------------- | ----------- |
 | `template` | string | swipe-button-horizontal | swipe-button-horizontal, sswipe-button-vertical |
 | `layout` | number | 3 | 1 , 2 , 3 | defines the amount of cards |
-| `width` | string | | Any css option that fits in the `width` css value | Will force the width of the swiper container |
-| `height` | string | | Any css option that fits in the `height` css value | Will force the height of the swiper container |
+| `width` | string | 100% | Any css option that fits in the `width` css value | Will force the width of the swiper container |
+| `height` | string | 100% | Any css option that fits in the `height` css value | Will force the height of the swiper container |
 | `auto_height` | boolean | false | true, false | force the same heigth, based on the tallest card (horizontal mode only!)|
 | `custom_css` | | none | see [`Styling`](#styling) | customize design of the swipe card based on various shortcuts |
 
