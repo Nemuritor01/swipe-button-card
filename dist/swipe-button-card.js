@@ -1,6 +1,6 @@
 class SwipeButtonCard extends HTMLElement {
   static get version() {
-    return '0.7.1';
+    return '0.7.5';
   }
   
   constructor() {
